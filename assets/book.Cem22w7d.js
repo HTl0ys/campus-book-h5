@@ -1,0 +1,1 @@
+import{O as o,p as s}from"./index-C4kOHw4B.js";const a=s=>o("/books",s),b=s=>o(`/books/${s}`),k=o=>s("/books",o),i=s=>o("/books/my-books",s),m=s=>o(`/books/isbn/${s}`);export{a,b,k as c,i as d,m as g};
